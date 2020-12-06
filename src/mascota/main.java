@@ -22,7 +22,7 @@ public class main {
 
         System.out.println(perro1.getNombre() + " tiene " + perro1.getEdad() + " años ");
 
-        perro1.comer("camotes");
+        perro1.comer("pedigree alimento balanceado");
         perro1.dormir();
         perro1.ladrar();
         perro1.correr();
